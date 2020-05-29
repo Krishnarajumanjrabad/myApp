@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "purpleandblue-f79aa": {
+      "hosting": {
+        "app": [
+          "purpleandblue-f79aa"
+        ]
+      }
+    }
+  }
+}
